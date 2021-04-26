@@ -105,7 +105,8 @@ opencv3.4.5
 gtest
 gflags
 ```
-make sure your `opencv binary file` is in your bash_profile, my opencv lib files are in path: `/usr/local/lib` and my opencv binary files are in path:`/usr/local/bin`
+all this third-party libs are in my local path `/usr/local/lib`
+make sure your `opencv binary file path` is in your bash_profile, my opencv lib files are in path: `/usr/local/lib` and my opencv binary files are in path:`/usr/local/bin`
 
 ## compile
 ```shell
