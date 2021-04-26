@@ -101,7 +101,7 @@ cpp implementation of "Image Quilting for Texture Synthesis and Transfer"
 
 ## requirement
 ```shell
-opencv3
+opencv3.4.5
 gtest
 gflags
 ```
