@@ -142,5 +142,5 @@ I simply takes one example to test running time.
 | ---------- | -------- | ------------ | -------- |
 | 396x658        | 32  | 2.0         | 22s |
 
-## concat information
+## contact information
 Welcome to email sukamayluo@sjtu.edu.cn if you have any questions about it.
