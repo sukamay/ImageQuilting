@@ -142,5 +142,8 @@ I simply takes one example to test running time.
 | ---------- | -------- | ------------ | -------- |
 | 396x658        | 32  | 2.0         | 22s |
 
+## references
+1. Alexei A. Efros and William T. Freeman. 2001. Image quilting for texture synthesis and transfer. In <i>Proceedings of the 28th annual conference on Computer graphics and interactive techniques</i> (<i>SIGGRAPH '01</i>). Association for Computing Machinery, New York, NY, USA, 341–346. DOI:https://doi.org/10.1145/383259.383296
+
 ## contact information
 Welcome to email sukamayluo@sjtu.edu.cn if you have any questions about it.
